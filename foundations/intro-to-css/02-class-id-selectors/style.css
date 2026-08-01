@@ -7,5 +7,5 @@
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
-#element-3 {font-size: 24px}
 #element-4 {background-color: rgb(0, 255, 30); font-size: 24px; font-weight: bold}
+.size-24 {font-size: 24px;}
